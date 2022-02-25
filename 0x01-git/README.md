@@ -1,1 +1,1 @@
-echo 'My first readme was updated'
+My first readme was update
